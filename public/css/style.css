@@ -1,0 +1,19 @@
+html {
+	background-color: #f0f0f0;
+
+}
+#subheader .row img{
+width: 300px; 
+position:absolute;
+height: 150px; 
+margin-left: 25%;
+}
+
+#subheader .row2 img{
+width: 300px; 
+position:absolute;
+height: 90px; 
+margin-left: 55%;
+padding-top: 20px;
+}
+
